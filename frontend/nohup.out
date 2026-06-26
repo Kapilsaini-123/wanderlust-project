@@ -1,0 +1,27 @@
+
+> frontend@0.0.0 dev
+> vite --host
+
+
+  VITE v4.5.14  ready in 532 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: http://172.31.45.109:5173/
+
+> frontend@0.0.0 dev
+> vite --host
+
+
+  VITE v4.5.14  ready in 391 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: http://172.31.45.109:5173/
+
+> frontend@0.0.0 dev
+> vite --host
+
+
+  VITE v4.5.14  ready in 389 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: http://172.31.45.109:5173/
